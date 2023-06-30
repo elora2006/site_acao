@@ -1,0 +1,204 @@
+/* Estilos para o cabeçalho */
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #ffd700;
+}
+
+/* Estilos para os projetos em destaque */
+
+#projetos {
+  background-color: #f1f1f1;
+  padding: 50px;
+}
+
+h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-size: 24px;
+  margin: 0 0 20px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Estilos para o formulário de contato */
+
+form {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"], input[type="email"], textarea {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+  width: 100%;
+}
+
+button[type="submit"] {
+  background-color: #ffd700;
+  border: none;
+  border-radius: 3px;
+  color: #333;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 10px;
+  padding: 10px 20px;
+}
+
+button[type="submit"]:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+Em qui., 22 de jun. de 2023 às 09:33, ELORA CIRELLI GIROLDO <elora.giroldo@escola.pr.gov.br> escreveu:
+/* Estilos para o cabeçalho */
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #ffd700;
+}
+
+/* Estilos para os projetos em destaque */
+
+#projetos {
+  background-color: #f1f1f1;
+  padding: 50px;
+}
+
+h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-size: 24px;
+  margin: 0 0 20px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Estilos para o formulário de contato */
+
+form {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"], input[type="email"], textarea {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+  width: 100%;
+}
+
+button[type="submit"] {
+  background-color: #ffd700;
+  border: none;
+  border-radius: 3px;
+  color: #333;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 10px;
+  padding: 10px 20px;
+}
+
+button[type="submit"]:hover {
+  background-color: #333;
+  color: #fff;
+}
